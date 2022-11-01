@@ -1,0 +1,17 @@
+.navbar {
+  background-color: white;
+  height: 54px;
+  list-style-type: none;
+}
+.navbar {
+  background-color: white;
+}
+
+.navbar-brand {
+  margin-left: 192px;
+}
+
+.form-control {
+  text-align: center;
+  margin-left: 5px;
+}
